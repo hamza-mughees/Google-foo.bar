@@ -10,4 +10,4 @@ The Google Foo Bar challenge has been know for the past few years as a secret wa
   <li>Level 4: Challenge 1: 15 days</li>
   <li>Level 4: Challenge 2: 15 days</li>
   <li>Level 5: Challenge 1: 25 days</li><br/>
-I am currently on level 3, challenge 2, striving to complete the challenge asap (while keeping up with college work), please pray for me :) .
+I am currently on level 3, challenge 2, striving to complete the challenge asap (while keeping up with college work), please pray for me lol :) .
