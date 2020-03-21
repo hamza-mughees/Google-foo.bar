@@ -1,19 +1,11 @@
 public static int[] solution(int[] pegs) {
 	// Your code here
 	int distances[] = new int[pegs.length - 1];
-	// Will contain distances in reverse order
 
 	int solution[] = new int[2];
-	// Will contain solution
 
 	for (int i = 1; i < pegs.length; i++)
 		distances[distances.length - i] = pegs[i] - pegs[i - 1];
-		
-	/*
-	 * E.g. pegs = [4, 30, 50, 60] then reversed distances = [10, 20, 26] => 10-20+26-r =
-	 * (1/2)r. (I mathematically derived this pattern, noticing that the signs always
-	 * alternate, which I could use)
-	 */
 
 	int patternSum = 0;
 	int index = 0;

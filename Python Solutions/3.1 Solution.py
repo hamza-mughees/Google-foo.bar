@@ -1,7 +1,5 @@
 def solution(x, y):
     # Your code here
-    # Sorry for bad coding, I just started Python :/,
-    # but I'll get much better at it in no time ;).
     generations = 0
     xNum = int(x)
     yNum = int(y)
