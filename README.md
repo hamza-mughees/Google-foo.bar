@@ -1,6 +1,7 @@
 # The Google Foo Bar Challenge
 
 The Google Foo Bar challenge has been know for the past few years as a secret way the software giant, Google, uses to hire developers. It is an invite-only challenge which bases its invitation on a user's search history being related to programming. The challenge is structured as follows:<br/>
+
   <li>Level 1: Challenge 1: 48 hours</li>
   <li>Level 2: Challenge 1: 72 hours</li>
   <li>Level 2: Challenge 2: 72 hours</li>
@@ -10,3 +11,5 @@ The Google Foo Bar challenge has been know for the past few years as a secret wa
   <li>Level 4: Challenge 1: 15 days</li>
   <li>Level 4: Challenge 2: 15 days</li>
   <li>Level 5: Challenge 1: 25 days</li><br/>
+  
+<b/>NOTE! The solution to 2.1 will not work since it uses array lists, array lists are part of an external libarary, it must be changed so that the solution uses standard arrays. I was able to fix it, however I forgot to save the updated code.
