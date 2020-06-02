@@ -45,12 +45,12 @@ Output:
 
 -- Python cases --
 Inputs:
-Solution.solution([4, 30, 50])
+solution.solution([4, 30, 50])
 Output:
     [12, 1]
 
 Inputs:
-Solution.solution([4, 17, 50])
+solution.solution([4, 17, 50])
 Output:
     [-1, -1]
 </pre>
