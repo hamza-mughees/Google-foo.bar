@@ -24,15 +24,25 @@ To provide a Java solution, edit solution.java
 Test cases
 ----------
 <pre>
+-- Java cases --
 Inputs:
-    (string) M = "2"
-    (string) F = "1"
+Solution.solution("2", "1")
 Output:
-    (string) "1"
+    "1"
 
 Inputs:
-    (string) M = "4"
-    (string) F = "7"
+Solution.solution("4", "7")
 Output:
-    (string) "4"
+    "4"
+
+-- Python cases --
+Inputs:
+solution.solution("2", "1")
+Output:
+    "1"
+
+Inputs:
+solution.solution("4", "7")
+Output:
+    "4"
 </pre>
