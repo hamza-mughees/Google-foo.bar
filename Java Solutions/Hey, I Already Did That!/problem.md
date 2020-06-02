@@ -28,15 +28,25 @@ To provide a Java solution, edit solution.java
 Test cases
 ----------
 <pre>
+-- Java cases --
 Inputs: 
-    (string) n = "1211"
-    (int) b = 10
+Solution.solution("1211", 10)
 Output: 
-    (int) 1
+    1
 
 Inputs: 
-    (string) n = "210022"
-    (int) b = 3
+Solution.solution("210022", 3)
 Output: 
-    (int) 3
+    3
+
+-- Python cases --
+Inputs: 
+solution.solution("1211", 10)
+Output: 
+    1
+
+Inputs: 
+solution.solution("210022", 3)
+Output: 
+    3
 </pre>
