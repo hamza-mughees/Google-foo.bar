@@ -13,19 +13,19 @@ The fuel control mechanisms have three operations:
 
 Write a function called solution(n) which takes a positive integer as a string and returns the minimum number of operations needed to transform the number of pellets to 1. The fuel intake control panel can only display a number up to 309 digits long, so there won't ever be more pellets than you can express in that many digits.
 
-For example:
-solution(4) returns 2: 4 -> 2 -> 1
-solution(15) returns 5: 15 -> 16 -> 8 -> 4 -> 2 -> 1
+For example:  
+solution(4) returns 2: 4 -> 2 -> 1  
+solution(15) returns 5: 15 -> 16 -> 8 -> 4 -> 2 -> 1  
 
 Languages
-=========
+---------
 
-To provide a Python solution, edit solution.py
+To provide a Python solution, edit solution.py  
 To provide a Java solution, edit solution.java
 
 Test cases
-==========
-
+----------
+<pre>
 Inputs:
     (string) n = "4"
 Output:
@@ -35,3 +35,4 @@ Inputs:
     (string) n = "15"
 Output:
     (int) 5
+</pre>

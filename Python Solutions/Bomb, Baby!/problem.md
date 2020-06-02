@@ -16,14 +16,14 @@ And finally, you were only able to smuggle one of each type of bomb - one Mach, 
 You need to know how many replication cycles (generations) it will take to generate the correct amount of bombs to destroy the LAMBCHOP. Write a function solution(M, F) where M and F are the number of Mach and Facula bombs needed. Return the fewest number of generations (as a string) that need to pass before you'll have the exact number of bombs necessary to destroy the LAMBCHOP, or the string "impossible" if this can't be done! M and F will be string representations of positive integers no larger than 10^50. For example, if M = "2" and F = "1", one generation would need to pass, so the answer would be "1". However, if M = "2" and F = "4", it would not be possible.
 
 Languages
-=========
+---------
 
-To provide a Python solution, edit solution.py
+To provide a Python solution, edit solution.py  
 To provide a Java solution, edit solution.java
 
 Test cases
-==========
-
+----------
+<pre>
 Inputs:
     (string) M = "2"
     (string) F = "1"
@@ -35,3 +35,4 @@ Inputs:
     (string) F = "7"
 Output:
     (string) "4"
+</pre>

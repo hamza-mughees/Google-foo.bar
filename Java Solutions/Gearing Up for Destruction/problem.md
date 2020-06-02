@@ -24,14 +24,14 @@ The list pegs will be given sorted in ascending order and will contain at least 
 10000 inclusive.
 
 Languages
-=========
+---------
 
-To provide a Python solution, edit solution.py
+To provide a Python solution, edit solution.py  
 To provide a Java solution, edit solution.java
 
 Test cases
-==========
-
+----------
+<pre>
 Inputs:
     (int list) pegs = [4, 30, 50]
 Output:
@@ -41,3 +41,4 @@ Inputs:
     (int list) pegs = [4, 17, 50]
 Output:
     (int list) [-1, -1]
+</pre>

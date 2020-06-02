@@ -10,14 +10,14 @@ Write a function solution(l) that takes a list of positive integers l and counts
 For example, [1, 2, 3, 4, 5, 6] has the triples: [1, 2, 4], [1, 2, 6], [1, 3, 6], making the answer 3 total.
 
 Languages
-=========
+---------
 
-To provide a Python solution, edit solution.py
+To provide a Python solution, edit solution.py  
 To provide a Java solution, edit solution.java
 
 Test cases
-==========
-
+----------
+<pre>
 Inputs:
     (int list) l = [1, 1, 1]
 Output:
@@ -27,3 +27,4 @@ Inputs:
     (int list) l = [1, 2, 3, 4, 5, 6]
 Output:
     (int) 3
+</pre>
