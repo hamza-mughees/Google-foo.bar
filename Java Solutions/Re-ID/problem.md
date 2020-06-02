@@ -16,13 +16,25 @@ To provide a Java solution, edit solution.java
 Test cases
 ----------
 <pre>
+-- Java cases --
 Inputs:
-    (int) n = 0
+Solution.solution(0)
 Output:
-    (string) "23571"
+    "23571"
 
 Inputs:
-    (int) n = 3
+Solution.solution(3)
 Output:
-    (string) "71113"
+    "71113"
+
+-- Python cases --
+Inputs:
+solution.solution(0)
+Output:
+    "23571"
+
+Inputs:
+solution.solution(3)
+Output:
+    "71113"
 </pre>
