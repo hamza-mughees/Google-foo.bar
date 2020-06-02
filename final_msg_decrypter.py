@@ -3,7 +3,7 @@ import base64
 # key is your username
 key = "hamzamughees"
 
-# encryption is your message
+# encryption is your encrypted message from Google
 encryption = "E0YeDwIOEBQbQkVJSEYKCAQMAUBERUIQBw0BHwAKAAJPRV9TTwQeDgQIGAIMQklTTwQLHA4fARRP RV9TTwgDGRMIEQ4KCQBUREFKGwIFHAIeAAgWBhVKWltNUhIGCQoQAwQJXU1NUhUJBwcaHBJKWltN UhQJAwBUREFKHA4CUkdSRUIEAQ9MXRw="
 
 decryption = []

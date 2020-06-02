@@ -10,6 +10,4 @@ The Google Foo Bar challenge has been know for the past few years as a secret wa
   <li>Level 3: Challenge 3: 96 hours</li>
   <li>Level 4: Challenge 1: 15 days</li>
   <li>Level 4: Challenge 2: 15 days</li>
-  <li>Level 5: Challenge 1: 25 days</li><br/>
-  
-<b/>NOTE! The solution to 2.1 will not work since it uses array lists, array lists are part of an external libarary, it must be changed so that the solution uses standard arrays. I was able to fix it, however I forgot to save the updated code.
+  <li>Level 5: Challenge 1: 22 days</li><br/>

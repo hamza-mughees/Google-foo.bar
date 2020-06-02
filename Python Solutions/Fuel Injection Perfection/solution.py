@@ -1,4 +1,4 @@
-def answer(n):
+def solution(n):
     pellets = int(n)
     operations = 0
   

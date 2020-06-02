@@ -1,3 +1,11 @@
+/*
+ * NOTE! This exact solution will NOT pass the tests.
+ * The java solution prevents the use of libraries and so 
+ * array lists cannot be used. In order for the solution to
+ * work, the array lists must be replaced with standard static
+ * arrays and the rest of the code must be adjusted accordingly.
+ */
+
 public static int solution(String n, int b) {
 	int minionId = Integer.parseInt(n);
 	
