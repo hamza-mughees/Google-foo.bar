@@ -44,21 +44,35 @@ To provide a Java solution, edit solution.java
 Test cases
 ----------
 <pre>
+-- Java cases --
 Inputs:
-    (int) num_buns = 2
-    (int) num_required = 1
+Solution.solution(2, 1)
 Output:
-    (int) [[0], [0]]
+    [[0], [0]]
 
 Inputs:
-    (int) num_buns = 5
-    (int) num_required = 3
+Solution.solution(5, 3)
 Output:
-    (int) [[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]
+    [[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]
 
 Inputs:
-    (int) num_buns = 4
-    (int) num_required = 4
+Solution.solution(4, 4)
 Output:
-    (int) [[0], [1], [2], [3]]
+    [[0], [1], [2], [3]]
+
+-- Python cases --
+Inputs:
+solution.solution(2, 1)
+Output:
+    [[0], [0]]
+
+Inputs:
+solution.solution(5, 3)
+Output:
+    [[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]
+
+Inputs:
+solution.solution(4, 4)
+Output:
+    [[0], [1], [2], [3]]
 </pre>
