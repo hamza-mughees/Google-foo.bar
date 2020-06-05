@@ -32,13 +32,25 @@ To provide a Java solution, edit solution.java
 Test cases
 ----------
 <pre>
+-- Java cases --
 Inputs:
-    (int list) pegs = [4, 30, 50]
+Solution.solution({4, 30, 50})
 Output:
-    (int list) [12, 1]
+    [12, 1]
 
 Inputs:
-    (int list) pegs = [4, 17, 50]
+Solution.solution({4, 17, 50})
 Output:
-    (int list) [-1, -1]
+    [-1, -1]
+
+-- Python cases --
+Inputs:
+solution.solution([4, 30, 50])
+Output:
+    [12, 1]
+
+Inputs:
+solution.solution([4, 17, 50])
+Output:
+    [-1, -1]
 </pre>

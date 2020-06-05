@@ -18,13 +18,25 @@ To provide a Java solution, edit solution.java
 Test cases
 ----------
 <pre>
+-- Java cases --
 Inputs:
-    (int list) l = [1, 1, 1]
+Solution.solution({1, 1, 1})
 Output:
-    (int) 1
+    1
 
 Inputs:
-    (int list) l = [1, 2, 3, 4, 5, 6]
+Solution.solution({1, 2, 3, 4, 5, 6})
 Output:
-    (int) 3
+    3
+
+-- Python cases --
+Inputs:
+solution.solution([1, 1, 1])
+Output:
+    1
+
+Inputs:
+solution.solution([1, 2, 3, 4, 5, 6])
+Output:
+    3
 </pre>
