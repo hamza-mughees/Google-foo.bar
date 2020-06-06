@@ -31,6 +31,7 @@ To provide a Java solution, edit solution.java
 
 Test cases
 ----------
+Your code should pass the following test cases. Note that it may also be run against hidden test cases not shown here.
 <pre>
 -- Java cases --
 Input:
