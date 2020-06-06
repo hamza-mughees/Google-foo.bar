@@ -25,23 +25,23 @@ Test cases
 ----------
 <pre>
 -- Java cases --
-Inputs:
+Input:
 Solution.solution("2", "1")
 Output:
     "1"
 
-Inputs:
+Input:
 Solution.solution("4", "7")
 Output:
     "4"
 
 -- Python cases --
-Inputs:
+Input:
 solution.solution("2", "1")
 Output:
     "1"
 
-Inputs:
+Input:
 solution.solution("4", "7")
 Output:
     "4"

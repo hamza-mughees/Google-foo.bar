@@ -19,23 +19,23 @@ Test cases
 ----------
 <pre>
 -- Java cases --
-Inputs:
+Input:
 Solution.solution({1, 1, 1})
 Output:
     1
 
-Inputs:
+Input:
 Solution.solution({1, 2, 3, 4, 5, 6})
 Output:
     3
 
 -- Python cases --
-Inputs:
+Input:
 solution.solution([1, 1, 1])
 Output:
     1
 
-Inputs:
+Input:
 solution.solution([1, 2, 3, 4, 5, 6])
 Output:
     3

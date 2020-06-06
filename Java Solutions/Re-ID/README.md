@@ -17,23 +17,23 @@ Test cases
 ----------
 <pre>
 -- Java cases --
-Inputs:
+Input:
 Solution.solution(0)
 Output:
     "23571"
 
-Inputs:
+Input:
 Solution.solution(3)
 Output:
     "71113"
 
 -- Python cases --
-Inputs:
+Input:
 solution.solution(0)
 Output:
     "23571"
 
-Inputs:
+Input:
 solution.solution(3)
 Output:
     "71113"

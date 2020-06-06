@@ -33,23 +33,23 @@ Test cases
 ----------
 <pre>
 -- Java cases --
-Inputs:
+Input:
 Solution.solution({4, 30, 50})
 Output:
     [12, 1]
 
-Inputs:
+Input:
 Solution.solution({4, 17, 50})
 Output:
     [-1, -1]
 
 -- Python cases --
-Inputs:
+Input:
 solution.solution([4, 30, 50])
 Output:
     [12, 1]
 
-Inputs:
+Input:
 solution.solution([4, 17, 50])
 Output:
     [-1, -1]
