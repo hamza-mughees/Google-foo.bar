@@ -38,8 +38,8 @@ Finally, if you had 3 bunnies and required 2 of them to open the cell, then any 
 Languages
 ---------
 
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java
+To provide a Java solution, edit Solution.java  
+To provide a Python solution, edit solution.py
 
 Test cases
 ----------

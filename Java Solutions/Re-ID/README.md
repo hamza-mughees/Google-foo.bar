@@ -10,8 +10,8 @@ Help the Commander assign these IDs by writing a function solution(n) which take
 Languages
 ---------
 
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java
+To provide a Java solution, edit Solution.java  
+To provide a Python solution, edit solution.py
 
 Test cases
 ----------

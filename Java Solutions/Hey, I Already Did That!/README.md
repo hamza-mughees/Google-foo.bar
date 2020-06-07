@@ -22,8 +22,8 @@ Given a minion ID as a string n representing a nonnegative integer of length k i
 Languages
 ---------
 
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java
+To provide a Java solution, edit Solution.java  
+To provide a Python solution, edit solution.py
 
 Test cases
 ----------

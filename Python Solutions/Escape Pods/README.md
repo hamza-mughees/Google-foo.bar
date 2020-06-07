@@ -32,8 +32,8 @@ So, in total, 16 bunnies could make it to the escape pods at 4 and 5 at each tim
 Languages
 ---------
 
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java
+To provide a Java solution, edit Solution.java  
+To provide a Python solution, edit solution.py
 
 Test cases
 ----------

@@ -20,8 +20,8 @@ solution(15) returns 5: 15 -> 16 -> 8 -> 4 -> 2 -> 1
 Languages
 ---------
 
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java
+To provide a Java solution, edit Solution.java  
+To provide a Python solution, edit solution.py
 
 Test cases
 ----------
