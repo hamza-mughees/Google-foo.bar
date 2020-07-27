@@ -20,7 +20,3 @@ The Google Foobar challenge is a secret recruiting method, established by Google
 
 ### Level 5 (Limit: 22 days)
 - [Dodge the Lasers!](https://github.com/hamza-mughees/Google-foo.bar/tree/master/Python%20Solutions/Dodge%20the%20Lasers!) - Python
-
-### Extra Level
-I typed in the request command to see what happens after I completed all 5 levels, so I had to do this one lol
-- [Disorderly Escape](https://github.com/hamza-mughees/Google-foo.bar/tree/master/Python%20Solutions/Disorderly%20Escape) - Python
